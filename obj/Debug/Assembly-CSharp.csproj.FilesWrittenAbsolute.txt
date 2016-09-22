@@ -1,0 +1,13 @@
+/Users/kimsharpe/Desktop/Space Shooter/Temp/bin/Debug/UnityEngine.dll
+/Users/kimsharpe/Desktop/Space Shooter/Temp/bin/Debug/UnityEditor.dll
+/Users/kimsharpe/Desktop/Space Shooter/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/kimsharpe/Desktop/Space Shooter/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/kimsharpe/Desktop/Space Shooter/Temp/bin/Debug/Mono.Cecil.dll
+/Users/kimsharpe/Desktop/Space Shooter/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/kimsharpe/Desktop/Space Shooter/Temp/bin/Debug/Unity.DataContract.dll
+/Users/kimsharpe/Desktop/Space Shooter/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/kimsharpe/Desktop/Space Shooter/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/kimsharpe/Desktop/Space Shooter/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/kimsharpe/Desktop/Space Shooter/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/kimsharpe/Desktop/Space Shooter/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/kimsharpe/Desktop/Space Shooter/Temp/bin/Debug/Mono.Cecil.Mdb.dll
